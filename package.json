@@ -1,0 +1,21 @@
+{
+  "name": "ang-material",
+  "version": "1.0.0",
+  "description": "angular material example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "author": "Vijitha Epa <vijithaepa@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.7",
+    "angular-animate": "1.5.7",
+    "angular-aria": "1.5.7",
+    "angular-material": "1.1.0-rc.5"
+  }
+}
